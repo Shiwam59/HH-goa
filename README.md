@@ -11,6 +11,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.2-38bdf8?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-8.0-purple?logo=vite&logoColor=white)](https://vitejs.dev)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Vercel](https://img.shields.io/badge/Vercel-Live%20Demo-black?logo=vercel&logoColor=white)](https://hackerhousegoa-builderpass.vercel.app/)
+
+**🌐 [Live Demo](https://hackerhousegoa-builderpass.vercel.app/)**
 
 </div>
 
@@ -131,17 +134,15 @@ Edit `src/styles.css` to change the color palette:
 
 ## 🌐 Deployment
 
-### Vercel (Recommended)
-1. Push to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Deploy automatically!
+### Live Demo
+🔗 **[https://hackerhousegoa-builderpass.vercel.app/](https://hackerhousegoa-builderpass.vercel.app/)**
 
-### Manual Build
-```bash
-npm run build
-# Upload 'dist' folder to any static hosting
-```
+### Deploy Your Own
+1. Fork this repo
+2. Go to [vercel.com](https://vercel.com)
+3. Import repository
+4. Click Deploy
+5. Done! 🎉
 
 ---
 
